@@ -1,0 +1,33 @@
+body{
+    color: rgb(141, 135, 135);
+}
+
+#welcome {
+    text-align: center;
+    color: rgb(141, 135, 135);
+}
+
+.button{
+    /* background-color: rgb(252, 71, 176);
+    color: cornsilk; */
+    padding-left: 5pt 10pt 5pt 5pt; 
+    float: right;
+}
+
+.form-input {
+    width: 100%;
+    align-items: center;
+    padding: 10pt 100pt 50pt 100pt;
+}
+
+.table-data {
+    width: 100%;
+    align-items: center;
+    padding: 10pt 100pt 10pt 100pt;
+}
+
+.search-field{
+    width: 30%;
+    float: right;
+    margin-bottom: 5pt;
+}
